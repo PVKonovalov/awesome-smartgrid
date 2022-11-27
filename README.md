@@ -1,5 +1,5 @@
-# Awesome-SmartGrid: Power grid analysis, simulation, and SLD editors.
-A curated list of awesome Smart Grid and IoT frameworks, libraries and software
+# Awesome-SmartGrid: A curated list of awesome Smart Grid and IoT frameworks, libraries and software
+
 ## Tools
 * [Power System Block](https://www.powsybl.org), [GitHub](https://github.com/powsybl) The open source set of Power System Blocks in Java, dedicated to grid analysis and simulation
 * [FUXA](https://github.com/frangoteam/FUXA) Web-based Process Visualization (SCADA/HMI/Dashboard) software

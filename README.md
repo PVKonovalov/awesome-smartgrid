@@ -26,6 +26,7 @@
 * [EC 60870-5-104 simulator](https://github.com/FreyrSCADA/IEC-60870-5-104) RTU Server Simulator, Master Client Simulator, Windows and Linux POSIX ARM, IEC104 Source Code in C, C++, C# .NET Programming
 * [IEC 61850](https://github.com/mz-automation/libiec61850) Official repository for libIEC61850, the open-source library for the IEC 61850 protocols
 * [IEC 60870](https://github.com/mz-automation/lib60870) Official repository for lib60870 an implementation of the IEC 60870-5-101/104 protocol
+* [Modbus](https://github.com/stephane/libmodbus) A Modbus library for Linux, Mac OS, FreeBSD and Windows
 
 ## Single Line Diagram editors
 * [QElectroTech](https://qelectrotech.org) is a free software to create electric diagrams. 

@@ -20,6 +20,8 @@
 * [TopoGrid](https://github.com/PVKonovalov/topogrid) Package topogrid contains implementations of basic power grid algorithms based on the grid topology. 
 
 ## Industrial protocols
+### MQTT
+* [paho.mqtt.golang](https://github.com/eclipse/paho.mqtt.golang) Golang MQTT library.
 ### SNMP
 * [GoSMNP](https://github.com/gosnmp/gosnmp) GoSNMP is an SNMP client library fully written in Go. 
 * [GoSNMPServer](https://github.com/slayercat/GoSNMPServer) SNMP server library fully written in Go.

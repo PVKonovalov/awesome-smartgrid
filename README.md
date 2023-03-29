@@ -27,7 +27,7 @@
 * [GoModbus](https://github.com/grid-x/modbus) Fault-tolerant, fail-fast implementation of Modbus protocol in Go.
 * [Modbus](https://github.com/stephane/libmodbus) A Modbus library for Linux, Mac OS, FreeBSD and Windows
 ### OPC UA
-* [GoOPCUA](https://github.com/gopcua/opcua) A native Go implementation of the OPC/UA Binary Protocol.
+* [GoOPCUA](https://github.com/gopcua/opcua) A native Go implementation of the OPC/UA client library.
 ### IEC 60870
 * [EC 60870-5-104 simulator](https://github.com/FreyrSCADA/IEC-60870-5-104) RTU Server Simulator, Master Client Simulator, Windows and Linux POSIX ARM, IEC104 Source Code in C, C++, C# .NET Programming
 * [IEC 60870](https://github.com/mz-automation/lib60870) Official repository for lib60870 an implementation of the IEC 60870-5-101/104 protocol

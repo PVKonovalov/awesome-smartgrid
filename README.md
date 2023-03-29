@@ -21,6 +21,7 @@
 
 ## Industrial protocols
 * [GoSMNP](https://github.com/gosnmp/gosnmp) GoSNMP is an SNMP client library fully written in Go. 
+* [GoSNMPServer](https://github.com/slayercat/GoSNMPServer) SNMP server library fully written in Go.
 * [GoModbus](https://github.com/grid-x/modbus) Fault-tolerant, fail-fast implementation of Modbus protocol in Go.
 * [GoOPCUA](https://github.com/gopcua/opcua) A native Go implementation of the OPC/UA Binary Protocol.
 * [EC 60870-5-104 simulator](https://github.com/FreyrSCADA/IEC-60870-5-104) RTU Server Simulator, Master Client Simulator, Windows and Linux POSIX ARM, IEC104 Source Code in C, C++, C# .NET Programming

@@ -13,7 +13,7 @@
 * [DNET](https://github.com/takemaru/dnet) Distribution Network Evaluation Tool is an analysis tool that works with power distribution networks for efficient and stable operation such as loss minimization and verification.
 * [Python SNMP MIB browser](https://github.com/markkuleinio/python-snmp-mib-browser) Small program to show MIB file OIDs in a list.
 * [FLISR](https://github.com/PVKonovalov/flisr) Fault Location, Isolation, and Service Restoration service can automate power restoration in seconds, automatically isolating faults and restoring power to disconnected feeders.
-* [Opne SCADA/DMS](https://github.com/robidev/open_scada_dms) An open source project for a basic ems/dms scada system.
+* [Open SCADA/DMS](https://github.com/robidev/open_scada_dms) An open source project for a basic ems/dms scada system.
 
 ## Frameworks and libraries
 * [GridCal](https://www.advancedgridinsights.com/gridcal), [GitHub](https://github.com/SanPen/GridCal) A cross-platform power systems solver written in Python with user interface and embedded python console

@@ -4,7 +4,7 @@
 * [Power System Block](https://www.powsybl.org), [GitHub](https://github.com/powsybl) The open source set of Power System Blocks in Java, dedicated to grid analysis and simulation
 * [FUXA](https://github.com/frangoteam/FUXA) Web-based Process Visualization (SCADA/HMI/Dashboard) software
 * [GridAPPSD](https://github.com/GRIDAPPSD) GridAPPS-D’s visualization application displays the topology of selected distribution model with highlighted capacitors and regulators.
-* [PyPSA](https://github.com/PyPSA/PyPSA) Python for Power System Analysis
+* [PyPSA](https://github.com/PyPSA/PyPSA) Python for Power System Analysis.
 * [LF Energy](https://www.lfenergy.org) is an open source foundation focused on the power systems sector, hosted within The Linux Foundation.
 * [Dynaωo](https://dynawo.github.io) is an hybrid C++/Modelica open source suite of simulation tools for power systems.
 * [SmartGrid](https://www.smartgrid.gov) Department of Energy's Advanced Grid Research and Development activities accelerate discovery and innovation in electric transmission and distribution technologies and create "next generation" devices, software, tools, and techniques to help modernize the electric grid.
@@ -17,9 +17,10 @@
 * [GElectrical](https://github.com/manuvarkey/GElectrical) is a free and opensource electrical system analysis software for LV/MV electrical distribution networks.
 
 ## Frameworks and libraries
-* [GridCal](https://www.advancedgridinsights.com/gridcal), [GitHub](https://github.com/SanPen/GridCal) A cross-platform power systems solver written in Python with user interface and embedded python console
-* [Pandapower GitHub](https://github.com/e2nIEE/pandapower), [Pandapower site](https://www.pandapower.org) Convenient Power System Modelling and Analysis based on PYPOWER and pandas
-* [TopoGrid](https://github.com/PVKonovalov/topogrid) Package topogrid contains implementations of basic power grid algorithms based on the grid topology. 
+* [GridCal](https://www.advancedgridinsights.com/gridcal), [GitHub](https://github.com/SanPen/GridCal) A cross-platform power systems solver written in Python with user interface and embedded python console.
+* [Pandapower GitHub](https://github.com/e2nIEE/pandapower), [Pandapower site](https://www.pandapower.org) Convenient Power System Modelling and Analysis based on PYPOWER and pandas.
+* [TopoGrid](https://github.com/PVKonovalov/topogrid) Package topogrid contains implementations of basic power grid algorithms based on the grid topology.
+* [Power Grid Model](https://github.com/PowerGridModel) Python/C++ library for distribution power system analysis.
 
 ## Industrial protocols
 ### MQTT

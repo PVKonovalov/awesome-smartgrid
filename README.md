@@ -2,6 +2,7 @@
 
 ## Tools
 * [Power System Block](https://www.powsybl.org), [GitHub](https://github.com/powsybl) The open source set of Power System Blocks in Java, dedicated to grid analysis and simulation
+* [Matpower](https://matpower.org) Free, open-source tools for electric power system simulation and optimization for MATLAB and Octave
 * [FUXA](https://github.com/frangoteam/FUXA) Web-based Process Visualization (SCADA/HMI/Dashboard) software
 * [GridAPPSD](https://github.com/GRIDAPPSD) GridAPPS-D’s visualization application displays the topology of selected distribution model with highlighted capacitors and regulators.
 * [LF Energy](https://www.lfenergy.org) is an open source foundation focused on the power systems sector, hosted within The Linux Foundation.

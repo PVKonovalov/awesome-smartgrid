@@ -39,6 +39,7 @@
 * [IEC 60870](https://github.com/mz-automation/lib60870) Official repository for lib60870 an implementation of the IEC 60870-5-101/104 protocol
 ### IEC 61850
 * [IEC 61850](https://github.com/mz-automation/libiec61850) Official repository for libIEC61850, the open-source library for the IEC 61850 protocols
+* [IEC 61850 open server](https://github.com/robidev/iec61850_open_server) An open source implementation of an IEC61850 IED using lib61850
 
 ## Single Line Diagram editors
 * [QElectroTech](https://qelectrotech.org) is a free software to create electric diagrams. 

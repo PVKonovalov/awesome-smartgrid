@@ -25,7 +25,6 @@
 ## Industrial protocols
 ### DNP-3
 * [OSS related](https://github.com/dnp3) to the DNP3 protocol
-* [FreyrSCADA:DNP3](https://github.com/FreyrSCADA/DNP3) Outstation Server Simulator, Client Master Simulator, Source Code for Windows and Linux 
 ### MQTT
 * [paho.mqtt.golang](https://github.com/eclipse/paho.mqtt.golang) Golang MQTT library.
 ### SNMP

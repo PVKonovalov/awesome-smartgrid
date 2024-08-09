@@ -14,6 +14,7 @@
 * [FLISR](https://github.com/PVKonovalov/flisr) Fault Location, Isolation, and Service Restoration service can automate power restoration in seconds, automatically isolating faults and restoring power to disconnected feeders.
 * [Open SCADA/DMS](https://github.com/robidev/open_scada_dms) An open source project for a basic ems/dms scada system.
 * [GElectrical](https://github.com/manuvarkey/GElectrical) is a free and opensource electrical system analysis software for LV/MV electrical distribution networks.
+* [SOGNO](https://github.com/sogno-platform) The LF Energy project Service-based Open-source Grid automation platform for Network Operation.
 
 ## Frameworks and libraries
 * [GridCal](https://www.advancedgridinsights.com/gridcal), [GitHub](https://github.com/SanPen/GridCal) A cross-platform power systems solver written in Python with user interface and embedded python console.

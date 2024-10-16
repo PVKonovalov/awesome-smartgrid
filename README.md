@@ -45,4 +45,7 @@
 * [IEC 61850 open server](https://github.com/robidev/iec61850_open_server) An open source implementation of an IEC61850 IED using lib61850
 
 ## Single Line Diagram editors
-* [QElectroTech](https://qelectrotech.org) is a free software to create electric diagrams. 
+* [QElectroTech](https://qelectrotech.org) is a free software to create electric diagrams.
+
+## Common Information Model - CIM
+* [CIMDraw](https://github.com/danielePala/CIMDraw) is a Web Application to view IEC CIM files. Editing is also possible, with some limitations.

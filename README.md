@@ -48,4 +48,4 @@
 * [QElectroTech](https://qelectrotech.org) is a free software to create electric diagrams.
 
 ## Common Information Model - CIM
-* [CIMDraw](https://github.com/danielePala/CIMDraw) is a Web Application to view IEC CIM files. Editing is also possible, with some limitations.
+* [CIMDraw](https://github.com/danielePala/CIMDraw) is a Web application to view IEC CIM files. Editing is also possible, with some limitations.

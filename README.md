@@ -1,6 +1,6 @@
 # Awesome-SmartGrid: A curated list of awesome Smart Grid and IoT frameworks, libraries and software
 
-## Tools
+## Tools & Platforms
 * [Power System Block](https://www.powsybl.org), [GitHub](https://github.com/powsybl) The open source set of Power System Blocks in Java, dedicated to grid analysis and simulation
 * [Matpower](https://matpower.org) Free, open-source tools for electric power system simulation and optimization for MATLAB and Octave
 * [FUXA](https://github.com/frangoteam/FUXA) Web-based Process Visualization (SCADA/HMI/Dashboard) software
@@ -15,6 +15,7 @@
 * [Open SCADA/DMS](https://github.com/robidev/open_scada_dms) An open source project for a basic ems/dms scada system.
 * [GElectrical](https://github.com/manuvarkey/GElectrical) is a free and opensource electrical system analysis software for LV/MV electrical distribution networks.
 * [SOGNO](https://github.com/sogno-platform) The LF Energy project Service-based Open-source Grid automation platform for Network Operation.
+* [Openremote](https://github.com/openremote/openremote) 100% open-source IoT Platform - Integrate your devices, create rules, and analyse and visualise your data.
 
 ## Frameworks and libraries
 * [GridCal](https://www.advancedgridinsights.com/gridcal), [GitHub](https://github.com/SanPen/GridCal) A cross-platform power systems solver written in Python with user interface and embedded python console.

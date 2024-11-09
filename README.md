@@ -30,6 +30,7 @@
 * [Rust implementation](https://github.com/stepfunc/dnp3) of DNP3 (IEEE 1815) with idiomatic bindings for C, .NET, C++, and Java.
 ### MQTT
 * [paho.mqtt.golang](https://github.com/eclipse/paho.mqtt.golang) Golang MQTT library.
+* [EMQX](https://www.emqx.com/en/downloads-and-install/broker) The most popular open source MQTT broker with a high-performance real-time message processing engine, powering event streaming for IoT devices at massive scale.
 ### SNMP
 * [GoSMNP](https://github.com/gosnmp/gosnmp) GoSNMP is an SNMP client library fully written in Go. 
 * [GoSNMPServer](https://github.com/slayercat/GoSNMPServer) SNMP server library fully written in Go.

@@ -37,6 +37,7 @@
 ### Modbus (Yes it's still alive)
 * [GoModbus](https://github.com/grid-x/modbus) Fault-tolerant, fail-fast implementation of Modbus protocol in Go.
 * [Modbus](https://github.com/stephane/libmodbus) A Modbus library for Linux, Mac OS, FreeBSD and Windows
+* [Rust implementation](https://github.com/stepfunc/rodbus) of Modbus with idiomatic bindings for C, C++, .NET, and Java.
 ### OPC UA
 * [GoOPCUA](https://github.com/gopcua/opcua) A native Go implementation of the OPC/UA client library.
 ### IEC 60870

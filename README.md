@@ -27,6 +27,7 @@
 ## Industrial protocols
 ### DNP-3
 * [OSS related](https://github.com/dnp3) to the DNP3 protocol
+* [Rust implementation](https://github.com/stepfunc/dnp3) of DNP3 (IEEE 1815) with idiomatic bindings for C, .NET, C++, and Java.
 ### MQTT
 * [paho.mqtt.golang](https://github.com/eclipse/paho.mqtt.golang) Golang MQTT library.
 ### SNMP

@@ -54,6 +54,7 @@
 
 ## Common Information Model - CIM
 * [CIMDraw](https://github.com/danielePala/CIMDraw) is a Web application to view IEC CIM files. Editing is also possible, with some limitations.
+* [CIMpy](https://github.com/sogno-platform/cimpy) Import and export CGMES/CIM IEC-61970 files in the XML/RDF format
 
 ## Outage Management System (OMS)
 * [Adaptive Design Algorithms, Models & Systems (ADAMS) Lab.](https://github.com/adamslab-ub/Real-Time-Outage-Management-Active-DNR-GRL) Real-Time Outage Management in Active Distribution Networks Using Reinforcement Learning over Graphs

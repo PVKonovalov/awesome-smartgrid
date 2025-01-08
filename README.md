@@ -16,6 +16,7 @@
 * [GElectrical](https://github.com/manuvarkey/GElectrical) is a free and opensource electrical system analysis software for LV/MV electrical distribution networks.
 * [SOGNO](https://github.com/sogno-platform) The LF Energy project Service-based Open-source Grid automation platform for Network Operation.
 * [Openremote](https://github.com/openremote/openremote) 100% open-source IoT Platform - Integrate your devices, create rules, and analyse and visualise your data.
+* [PMU Connection Tester](https://github.com/GridProtectionAlliance/PMUConnectionTester) is an application used to validate, test and trouble‐shoot connections and data streams from phasor measurement (IEEE C37.118.2) devices as well as graphically visualize their synchophasor data in real‐time.
 
 ## Frameworks and libraries
 * [GridCal](https://www.advancedgridinsights.com/gridcal), [GitHub](https://github.com/SanPen/GridCal) A cross-platform power systems solver written in Python with user interface and embedded python console.

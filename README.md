@@ -46,6 +46,7 @@
 ### IEC 60870
 * [EC 60870-5-104 simulator](https://github.com/FreyrSCADA/IEC-60870-5-104) RTU Server Simulator, Master Client Simulator, Windows and Linux POSIX ARM, IEC104 Source Code in C, C++, C# .NET Programming
 * [IEC 60870](https://github.com/mz-automation/lib60870) Official repository for lib60870 an implementation of the IEC 60870-5-101/104 protocol
+* [Control commands](https://github.com/PVKonovalov/iec104_client_control) testing tool.
 ### IEC 61850
 * [IEC 61850](https://github.com/mz-automation/libiec61850) Official repository for libIEC61850, the open-source library for the IEC 61850 protocols
 * [IEC 61850 open server](https://github.com/robidev/iec61850_open_server) An open source implementation of an IEC61850 IED using lib61850

@@ -51,6 +51,7 @@
 * [IEC 61850](https://github.com/mz-automation/libiec61850) Official repository for libIEC61850, the open-source library for the IEC 61850 protocols
 * [IEC 61850 open server](https://github.com/robidev/iec61850_open_server) An open source implementation of an IEC61850 IED using lib61850
 * [IEC61850bean](https://github.com/beanit/iec61850bean) Java IEC 61850 MMS stack for clients and servers.
+* [Fuzzy IEC61850 Simulator](https://github.com/st-ing/61850-sim) This simulator is a helpful tool that can be used for testing of various IED integration scenarios.
 
 ## Single Line Diagram editors
 * [QElectroTech](https://qelectrotech.org) is a free software to create electric diagrams.

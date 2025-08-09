@@ -53,6 +53,7 @@
 * [IEC61850bean](https://github.com/beanit/iec61850bean) Java IEC 61850 MMS stack for clients and servers.
 * [Fuzzy IEC61850 Simulator](https://github.com/st-ing/61850-sim) This simulator is a helpful tool that can be used for testing of various IED integration scenarios.
 * [Open Substation Communication Designer](https://github.com/openscd/open-scd) A substation configuration description editor for projects using SCL IEC 61850-6 Edition 2 or greater
+* [News on IEC 61850 and related Standards](https://blog.nettedautomation.com) IEC 61850, IEC 61400-25, IEC 61970 (CIM), IEC 60870-5, DNP3, IEC 62351 (Security), ...
 
 ## Single Line Diagram editors
 * [QElectroTech](https://qelectrotech.org) is a free software to create electric diagrams.

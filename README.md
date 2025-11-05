@@ -8,7 +8,8 @@
 * [LF Energy](https://www.lfenergy.org) is an open source foundation focused on the power systems sector, hosted within The Linux Foundation.
 * [Dynaωo](https://dynawo.github.io) is an hybrid C++/Modelica open source suite of simulation tools for power systems.
 * [SmartGrid](https://www.smartgrid.gov) Department of Energy's Advanced Grid Research and Development activities accelerate discovery and innovation in electric transmission and distribution technologies and create "next generation" devices, software, tools, and techniques to help modernize the electric grid.
-* [Fledge](https://github.com/fledge-iot) An open source platform for the Industrial Internet of Things, it acts as an edge gateway between sensor devices and cloud storage systems.
+* [Fledge IoT](https://github.com/fledge-iot) An open source platform for the Industrial Internet of Things, it acts as an edge gateway between sensor devices and cloud storage systems.
+* [FledgePower](https://github.com/fledge-power) FledgePower is a multi-protocol translation gateway for power systems based on the industrial IoT LF Edge project Fledge.
 * [OpenDSS](https://www.epri.com/pages/sa/opendss), [GitHub](https://github.com/tshort/OpenDSS) is an electric power distribution system simulator (DSS) designed to support distributed energy resource (DER) grid integration and grid modernization.
 * [DNET](https://github.com/takemaru/dnet) Distribution Network Evaluation Tool is an analysis tool that works with power distribution networks for efficient and stable operation such as loss minimization and verification.
 * [FLISR](https://github.com/PVKonovalov/flisr) Fault Location, Isolation, and Service Restoration service can automate power restoration in seconds, automatically isolating faults and restoring power to disconnected feeders.

@@ -57,6 +57,7 @@
 * [Open Substation Communication Designer](https://github.com/openscd/open-scd) A substation configuration description editor for projects using SCL IEC 61850-6 Edition 2 or greater
 * [News on IEC 61850 and related Standards](https://blog.nettedautomation.com) IEC 61850, IEC 61400-25, IEC 61970 (CIM), IEC 60870-5, DNP3, IEC 62351 (Security), ...
 * [IEDExplorer](https://sourceforge.net/projects/iedexplorer) EDExplorer is an IEC 61850 client tool written for testing and educational purposes (Windows/Linux Mono)
+* [CoMPAS](https://github.com/com-pas)  - (Co)nfiguration (M)odules for (P)ower industry (A)utomation (S)ystems. This project is to develop open source software components related to IEC 61850 model.
 
 ## Single Line Diagram editors
 * [QElectroTech](https://qelectrotech.org) is a free software to create electric diagrams.

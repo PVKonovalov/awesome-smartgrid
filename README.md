@@ -45,6 +45,7 @@
 ### OPC UA
 * [GoOPCUA](https://github.com/gopcua/opcua) A native Go implementation of the OPC/UA client library.
 * [open62541](https://github.com/open62541/open62541) Open source implementation of OPC UA (OPC Unified Architecture) aka IEC 62541 licensed under Mozilla Public License v2.0
+* [OPC UA](https://reference.opcfoundation.org) Online reference
 ### IEC 60870
 * [EC 60870-5-104 simulator](https://github.com/FreyrSCADA/IEC-60870-5-104) RTU Server Simulator, Master Client Simulator, Windows and Linux POSIX ARM, IEC104 Source Code in C, C++, C# .NET Programming
 * [IEC 60870](https://github.com/mz-automation/lib60870) Official repository for lib60870 an implementation of the IEC 60870-5-101/104 protocol

@@ -72,3 +72,6 @@
 
 ## Outage Management System (OMS)
 * [Adaptive Design Algorithms, Models & Systems (ADAMS) Lab.](https://github.com/adamslab-ub/Real-Time-Outage-Management-Active-DNR-GRL) Real-Time Outage Management in Active Distribution Networks Using Reinforcement Learning over Graphs
+
+## AI Agents & Trust Infrastructure
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) Trust scoring and identity verification for autonomous energy management and grid AI agents. Verify agent wallet identity before x402 micropayments in multi-agent smart grid coordination pipelines. MCP endpoint: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`

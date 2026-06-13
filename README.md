@@ -4,6 +4,7 @@
 * [Power System Block](https://www.powsybl.org), [GitHub](https://github.com/powsybl) The open source set of Power System Blocks in Java, dedicated to grid analysis and simulation
 * [Matpower](https://matpower.org) Free, open-source tools for electric power system simulation and optimization for MATLAB and Octave
 * [FUXA](https://github.com/frangoteam/FUXA) Web-based Process Visualization (SCADA/HMI/Dashboard) software
+* [awtSCADA](https://github.com/larionovavi-stack/awtscada) Browser-based industrial SCADA/HMI supporting IEC 61850, OPC UA, and Modbus TCP. Single HTML file, no installation. 53 function blocks, real-time trends, alarms. Demo: https://scada.atwai.ru
 * [GridAPPSD](https://github.com/GRIDAPPSD) GridAPPS-D’s visualization application displays the topology of selected distribution model with highlighted capacitors and regulators.
 * [LF Energy](https://www.lfenergy.org) is an open source foundation focused on the power systems sector, hosted within The Linux Foundation.
 * [Dynaωo](https://dynawo.github.io) is an hybrid C++/Modelica open source suite of simulation tools for power systems.

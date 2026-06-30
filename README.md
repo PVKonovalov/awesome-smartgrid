@@ -48,10 +48,11 @@
 * [OPC UA](https://reference.opcfoundation.org) online reference
 * [Simple OPC UA server](https://github.com/azure-samples/iot-edge-opc-plc) with nodes that generate random and increasing data, anomalies and much more 
 ### IEC 60870
-* [EC 60870-5-104 simulator](https://github.com/FreyrSCADA/IEC-60870-5-104) RTU Server Simulator, Master Client Simulator, Windows and Linux POSIX ARM, IEC104 Source Code in C, C++, C# .NET Programming
+* [IEC 60870-5-104 simulator](https://github.com/FreyrSCADA/IEC-60870-5-104) RTU Server Simulator, Master Client Simulator, Windows and Linux POSIX ARM, IEC104 Source Code in C, C++, C# .NET Programming
 * [IEC 60870](https://github.com/mz-automation/lib60870) Official repository for lib60870 an implementation of the IEC 60870-5-101/104 protocol
 * [Control commands](https://github.com/PVKonovalov/iec104_client_control) testing tool.
 * [IEC60870-5-101/104 APDU parser](https://github.com/PVKonovalov/iec104_apdu_parser) A command-line dialog tool for parsing and validating IEC 60870-5-101/104 APDUs from hex input
+* [IEC 60870-5-104 client](https://github.com/PVKonovalov/iec104_test_client) A console client for testing IEC 60870-5-104 servers
 ### IEC 61850
 * [IEC 61850](https://github.com/mz-automation/libiec61850) Official repository for libIEC61850, the open-source library for the IEC 61850 protocols
 * [GoLang IEC61850 library](https://github.com/wendy512/iec61850) Cgo version of IEC 61850 library, reference [libiec61850](https://github.com/mz-automation/libiec61850)

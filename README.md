@@ -27,6 +27,7 @@
 * [PyPSA](https://github.com/PyPSA/PyPSA) Python for Power System Analysis.
 
 ## Industrial protocols
+* [ScadaProtocols.com](https://scadaprotocols.com) a technical platform dedicated to helping engineers understand, analyze, and troubleshoot industrial communication systems with confidence and clarity.
 ### DNP-3
 * [OSS related](https://github.com/dnp3) to the DNP3 protocol
 * [Rust implementation](https://github.com/stepfunc/dnp3) of DNP3 (IEEE 1815) with idiomatic bindings for C, .NET, C++, and Java.

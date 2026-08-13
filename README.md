@@ -23,7 +23,7 @@
 * [GridCal](https://www.advancedgridinsights.com/gridcal), [GitHub](https://github.com/SanPen/GridCal) A cross-platform power systems solver written in Python with user interface and embedded python console.
 * [Pandapower GitHub](https://github.com/e2nIEE/pandapower), [Pandapower site](https://www.pandapower.org) Convenient Power System Modelling and Analysis based on PYPOWER and pandas.
 * [TopoGrid](https://github.com/PVKonovalov/topogrid) Package topogrid contains implementations of basic power grid algorithms based on the grid topology.
-* [Power Grid Model](https://github.com/PowerGridModel) Python/C++ library for distribution power system analysis.
+* [Power Grid Model GitHub](https://github.com/PowerGridModel), [Power Grid Model](https://lfenergy.org/projects/power-grid-model/) Python/C++ library for distribution power system analysis.
 * [PyPSA](https://github.com/PyPSA/PyPSA) Python for Power System Analysis.
 
 ## Industrial protocols

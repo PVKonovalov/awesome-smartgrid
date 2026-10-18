@@ -25,10 +25,11 @@
 * [TopoGrid](https://github.com/PVKonovalov/topogrid) Package topogrid contains implementations of basic power grid algorithms based on the grid topology.
 * [Power Grid Model GitHub](https://github.com/PowerGridModel), [Power Grid Model](https://lfenergy.org/projects/power-grid-model/) Python/C++ library for distribution power system analysis.
 * [PyPSA](https://github.com/PyPSA/PyPSA) Python for Power System Analysis.
-* [OT Fabric](https://github.com/otfabric) Open-source OT protocol libraries and tools: OPC UA, Modbus, IEC 104, IEC 61850, BACnet, S7, SunSpec. Built by people and AI agents.
+
 
 ## Industrial protocols
 * [ScadaProtocols.com](https://scadaprotocols.com) a technical platform dedicated to helping engineers understand, analyze, and troubleshoot industrial communication systems with confidence and clarity.
+* [OT Fabric](https://github.com/otfabric) Open-source OT protocol libraries and tools: OPC UA, Modbus, IEC 104, IEC 61850, BACnet, S7, SunSpec. Built by people and AI agents.
 ### DNP-3
 * [OSS related](https://github.com/dnp3) to the DNP3 protocol
 * [Rust implementation](https://github.com/stepfunc/dnp3) of DNP3 (IEEE 1815) with idiomatic bindings for C, .NET, C++, and Java.

@@ -18,6 +18,7 @@
 * [SOGNO](https://github.com/sogno-platform) The LF Energy project Service-based Open-source Grid automation platform for Network Operation.
 * [Openremote](https://github.com/openremote/openremote) 100% open-source IoT Platform - Integrate your devices, create rules, and analyse and visualise your data.
 * [PMU Connection Tester](https://github.com/GridProtectionAlliance/PMUConnectionTester) is an application used to validate, test and trouble‐shoot connections and data streams from phasor measurement (IEEE C37.118.2) devices as well as graphically visualize their synchophasor data in real‐time.
+* [Federated Learning for PMU Event Classification](https://doi.org/10.1109/PESGM52003.2023.10252874) - Privacy-preserving federated deep learning framework for synchrophasor PMU event classification and cyber-attack defense.
 
 ## Frameworks and libraries
 * [GridCal](https://www.advancedgridinsights.com/gridcal), [GitHub](https://github.com/SanPen/GridCal) A cross-platform power systems solver written in Python with user interface and embedded python console.
@@ -79,3 +80,4 @@
 
 ## Outage Management System (OMS)
 * [Adaptive Design Algorithms, Models & Systems (ADAMS) Lab.](https://github.com/adamslab-ub/Real-Time-Outage-Management-Active-DNR-GRL) Real-Time Outage Management in Active Distribution Networks Using Reinforcement Learning over Graphs
+* [Smart-Grid-Resilience-MARL](https://github.com/mahmoudsajjadi/Smart-Grid-Resilience-MARL) ([Paper](https://www.mdpi.com/2071-1050/18/20/10574), [DOI](https://doi.org/10.3390/su182010574)) - Sustainable Smart Grid Resilience and Renewable Integration Using Multi-Agent Reinforcement Learning (MDPI Sustainability 2026): decentralized Q-learning feeder restoration, coordinated battery dispatch, and Volt-VAr droop on IEEE 33-bus and 179-bus Oberrhein networks.
